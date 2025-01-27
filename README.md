@@ -27,7 +27,7 @@ MyKent - it is guided by your location, thanks to which it finds great places wi
 
 ## Usecase
 
-<image src="/docs/images/usecase" alt="Usecase scheme">
+<image src="/docs/images/usecase.png" alt="Usecase scheme">
 
  
 ### Installation
@@ -43,7 +43,7 @@ MyKent - it is guided by your location, thanks to which it finds great places wi
 
 ### Architecture
 
-<image src="/docs/images/architecture" alt="Architecture scheme">
+<image src="/docs/images/architecture.png" alt="Architecture scheme">
 
 
 ### Try it
