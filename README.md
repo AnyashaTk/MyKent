@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Kent - ваш AI-помощник для поднятия настроения и поиска мест 🌟
 
 ![KentDemo](image-2.png)
@@ -132,5 +131,4 @@ MIT License © 2024 [AnyashaTk](https://github.com/AnyashaTk), [PikaChuChuMF](ht
 > Для работы всех функций необходимы активные API-ключи.  
 > Бот предназначен для образовательных целей.
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-@KentBot-blue.svg)](https://t.me/your_bot_link)
-```
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@MyKentyara_bot-blue.svg)](https://t.me/MyKentyara_bot)
