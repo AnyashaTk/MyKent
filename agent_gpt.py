@@ -104,9 +104,9 @@ class ChatGPTTool:
 
     def format_places_result(self, places):
         if not places:
-            return "К сожалению, спа поблизости не найдены 😔"
+            return "К сожалению, места поблизости не найдены 😔"
 
-        formatted_result = "спа поблизости:\n\n"
+        formatted_result = "места поблизости:\n\n"
         for place in places:
             formatted_result += f"🏠 {place['name']}\n"
             formatted_result += f"📍 Адрес: {place['address']}\n"
