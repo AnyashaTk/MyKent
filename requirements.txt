@@ -1,0 +1,9 @@
+aiogram==2.23.1
+speechrecognition
+pydub
+pillow
+openai
+sqlite3
+torch 
+huggingface
+datasets
